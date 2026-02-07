@@ -1,6 +1,6 @@
 BaseFlow
 Trustless payments for real work — powered by Base.
-BaseFlow is a Base-native escrow and payment automation protocol for services, freelancers, and creators.
+Bfreelancersis a Base-native escrow and payment automation protocol for servicereelancersers, and creators.
 It enables secure, low-cost, and automated payments without intermediaries.
 Problem
 Clients fear non-delivery
