@@ -25,17 +25,28 @@ Ideal for micro-transactions and emerging markets
 
 Core Components:
 -Escrow Smart Contracts (Base)
+
 -Payment Automation Agent
+
 -Frontend Dashboard
+
 -Creator & Service Marketplace Integrations
 
 Use Cases:
--Freelance service payments, -Creatorsubscriptions
+-Freelance service payments
+ 
+-Creatorsubscriptions
+
 -DAO contributor payouts
+
 -Marketplace escrow Status
+
 -Escrow contract implemented
+
 -Frontend scaffold live
+
 -Agent automation in progress
+
 -Deploying to Base Sepolia
 
 Vision
